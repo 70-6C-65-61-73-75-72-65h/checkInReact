@@ -1,6 +1,6 @@
 export enum Type {
-  ActionType1 = "ActionType1",
-  ActionType2 = "ActionType2",
+  ActionType1,
+  ActionType2,
 }
 
 export const ActionCreator11 = (info1: any) => ({
