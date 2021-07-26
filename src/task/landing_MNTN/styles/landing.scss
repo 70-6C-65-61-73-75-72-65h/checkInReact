@@ -1,0 +1,25 @@
+.landing {
+  &__layout-4 {
+    position: absolute;
+    width: 1920px;
+    height: 700px;
+    left: 0px;
+    top: 1200px;
+
+    background: linear-gradient(180deg, rgba(11, 29, 38, 0) 0%, #0b1d26 61.38%);
+  }
+
+  &__layout-5 {
+    position: absolute;
+    width: 1920px;
+    height: 1200px;
+    left: -90px;
+    top: 58px;
+
+    background: linear-gradient(
+      330.24deg,
+      rgba(11, 29, 38, 0) 31.06%,
+      #0b1d26 108.93%
+    );
+  }
+}

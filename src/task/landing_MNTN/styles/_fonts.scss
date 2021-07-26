@@ -1,0 +1,35 @@
+// just use google font
+@import url('https://fonts.googleapis.com/css?family=Barlow:700');
+
+
+@font-face {
+font-family: 'CDB';
+src: url('http://localhost:3000/static/fonts/Chronicle-Display-Black.otf') format('opentype'), 
+}
+@font-face {
+font-family: 'CDB-italic';
+src: url('http://localhost:3000/static/fonts/Chronicle-Display-Light-Italic.otf') format('opentype'), 
+}
+@font-face {
+font-family: 'CDB-roman';
+src: url('http://localhost:3000/static/fonts/Chronicle-Display-Roman.otf') format('opentype'), 
+}
+@font-face {
+font-family: 'CDB-semibold';
+src: url('http://localhost:3000/static/fonts/Chronicle-Display-Semibold.otf') format('opentype'), 
+}
+
+
+@font-face {
+font-family: 'Gilroy-bold';
+src: url('http://localhost:3000/static/fonts/Gilroy-ExtraBold.otf') format('opentype'), 
+}
+@font-face {
+font-family: 'Gilroy';
+src: url('http://localhost:3000/static/fonts/Gilroy-Light.otf') format('opentype'), 
+}
+
+@font-face {
+font-family: 'Barlow-bold';
+src: url('http://localhost:3000/static/fonts/Gilroy-ExtraBold.otf') format('opentype'), 
+} 
